@@ -88,9 +88,3 @@ I am Thanh Trong, I am currently pursuing my Bachelors in Software Engineer from
 <a href="https://www.facebook.com/thanhtrongvo109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
     
 <br>
-
-
------
-Credits: [Hridoy Hazard](https://github.com/HridoyHazard)
-
-Last Edited on: 06/12/2021
