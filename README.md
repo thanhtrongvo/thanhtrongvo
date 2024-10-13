@@ -15,8 +15,6 @@ I am Thanh Trong, I am currently pursuing my Bachelors in Software Engineer from
     </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=thanhtrongvod&row=1&no-bg=true)
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhtrongvo&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtrongvo&theme=great-gatsby&layout=compact)](https://github.com/thanhtrongvo)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
