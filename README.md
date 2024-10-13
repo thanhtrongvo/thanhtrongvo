@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hridoy</h1>
 
-I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer science from [Metropolitan University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
+I am Thanh Trong, I am currently pursuing my Bachelors in Software Engineer from [Sai Gon University](https://www.sgu.edu.vn/). I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
-- 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
+- 🌱 I’m currently learning ** Spring Boot, ASP.Net MVC, ReactJs **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Mern **
-- 🥅 2021 Goals: To be profficient in MERN Stack :|
+- 🥅 2024 Goals: To be profficient in Spring Stack :|
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 <p align="center">
@@ -33,12 +32,12 @@ I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Donet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+
 </span>
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -50,7 +49,6 @@ I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
 <h4> IDE </h4>
