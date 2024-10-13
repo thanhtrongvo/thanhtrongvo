@@ -2,7 +2,7 @@
 
 I am Thanh Trong, I am currently pursuing my Bachelors in Software Engineer from [Sai Gon University](https://www.sgu.edu.vn/). I am a tech enthusiast & a self learner.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
+
 
 - 🌱 I’m currently learning ** Spring Boot, ASP.Net MVC, ReactJs **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
